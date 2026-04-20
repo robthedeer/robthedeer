@@ -115,7 +115,7 @@ As Founder and CEO of **QESKIDS (@qeskids)** , I built a multi-site technology e
 ### ✍️ Latest Technical Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [Bridging the Last Mile: Building an AI-Powered Classroom for Rural Southern Africa](https://yourblog.com/ai-rural-education)
+- [Bridging the Last Mile: Building an AI-Powered Classroom for Rural Southern Africa](https://medium.com/@robertnyamugada/tech-innovation-in-rural-schools-southern-africa-by-robert-nyamugada-9ec91f37d24b)
 - [From Moscow to the Makers: How QESKIDS Built a Generation of Tech Creators](https://yourblog.com/qeskids-impact)
 - [Quantizing LLMs for the Edge: A Practical Guide for Low-Resource Environments](https://yourblog.com/llm-quantization-edge)
 <!-- BLOG-POST-LIST:END -->
