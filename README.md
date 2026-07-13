@@ -142,7 +142,7 @@ I'm actively seeking **collaborations, partnerships, and opportunities** in:
 - **Open Source Educational Tools**
 - **UK Digital Technology Ecosystem**
 
-I am also preparing my application for the **UK Global Talent Visa (Digital Technology)** and welcome endorsements from industry peers.
+I am also seeking grants and funding for the **(QES LAB - Digital Technology)** and welcome new partners.
 
 <p align="left">
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
